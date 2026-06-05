@@ -12,7 +12,6 @@
 
 - 🌸 Japanese university student  
 - 💻 Learning: Coding, Data Science, NLP
-- 🧶 Crochet lover & lifestyle blogger  
 ---
 
 <div align="center">
