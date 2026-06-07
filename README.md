@@ -7,7 +7,7 @@
 
 ## 🍓 About Me
 
-- 🌸 Japanese university student  
+- 🌸 university student in Osaka, JP
 - 💻 Learning: Coding, Data Science, NLP
 ---
 
