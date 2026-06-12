@@ -13,6 +13,6 @@
 
 <div align="center">
 
-🌸 *Have a lovely day!* 🌸
+Lucky :)
 
 </div>
